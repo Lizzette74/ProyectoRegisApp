@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProyectoRegisApp</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="olvidastes_tu_contrase_a">Olvidastes tu Contraseña?</string>
+    <string name="entra_aqui">Entra Aqui</string>
+    <string name="inicio_de_sesion">Inicio de sesion</string>
+    <string name="ingresa_tu_usuario_y_contrase_a_para_ingresar">Ingresa tu usuario y contraseña para ingresar</string>
+    <string name="imageunp_description">Descripcion de la imageunp</string>
+    <string name="imal_description">Descripcion del imal</string>
+    <string name="eyes2_description">Descripcion del eyes2</string>
+    <string name="recor">recor</string>
+    <string name="enviar">Enviar</string>
+    <string name="aula">Aula</string>
+    <string name="hora">Hora</string>
+    <string name="fecha">Fecha</string>
+    <string name="asistencia">Asistencia</string>
+    <string name="toma_de_asistencia">Toma_de_Asistencia</string>
+    <string name="ingreso">messeger ingreso</string>
+    <string name="registrarse_aqui">registrarse_Aqui</string>
+    <string name="revision_de_asistencia">Revision de Asistencia</string>
+    <string name="asignatura">Asignatura</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Aula">Aula</string>
+    <string name="mujeres">Mujeres</string>
+    <string name="varones">Varones</string>
+    <string name="total">Total</string>
+</resources>
